@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guru Charan Aggala</h1>
-<h3 align="center">A passionate Web developer and Data Science Enthusiastic</h3>
+<h3 align="center">A passionate Web Developer and Data Science Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurucharanaggala&label=Profile%20views&color=0e75b6&style=flat" alt="gurucharanaggala" /> </p>
 
