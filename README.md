@@ -8,9 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13OGsToPz8WVthiua0aWdyTR62Ui91anM/view](https://drive.google.com/file/d/13OGsToPz8WVthiua0aWdyTR62Ui91anM/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13OGsToPz8WVthiua0aWdyTR62Ui91anM/view)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/gurucharanaggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gurucharanaggala" height="30" width="40" /></a>
 </p>
