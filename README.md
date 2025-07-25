@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guru Charan Aggala</h1>
-<h3 align="center">A passionate web developer and Data Science Enthusiastic</h3>
+<h3 align="center">A passionate Web developer and Data Science Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurucharanaggala&label=Profile%20views&color=0e75b6&style=flat" alt="gurucharanaggala" /> </p>
 
@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **aggalagurucharan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13OGsToPz8WVthiua0aWdyTR62Ui91anM/view](https://drive.google.com/file/d/13OGsToPz8WVthiua0aWdyTR62Ui91anM/view)
 
